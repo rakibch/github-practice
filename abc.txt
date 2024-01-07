@@ -2,4 +2,12 @@
 
 ## second line added
 
+<<<<<<< HEAD
 ## third line added
+=======
+## third line added
+
+## foruth line added
+
+## fifth line added
+>>>>>>> 55af247e1e4b4748862b4bec7aedf871d7a9828d
